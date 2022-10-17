@@ -1,0 +1,26 @@
+{
+    "invoices": [
+        {
+            "invoice_id": "87295241",
+            "invoice_timestamp": "2022-10-10 19:58:01",
+            "invoice_number": "2",
+            "invoice_cashier": "Kassier",
+            "invoice_cashier_id": "185716",
+            "invoice_mode": "demo",
+            "invoice_payment": "Bar",
+            "invoice_total": "30.00",
+            "invoice_cancellation": "0",
+            "taxes": [
+                {
+                    "tax_taxRate": "20",
+                    "tax_gross": "30",
+                    "tax_net": "25",
+                    "tax_tax": "5"
+                }
+            ]
+        }
+    ],
+    "count": "3",
+    "limit": 1,
+    "offset": 2
+}

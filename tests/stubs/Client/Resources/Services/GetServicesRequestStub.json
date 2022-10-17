@@ -1,0 +1,27 @@
+{
+    "services": [
+        {
+            "service_id": "943284",
+            "service_name": "Service",
+            "service_eanCode": "",
+            "service_taxRate": "20.00",
+            "service_net_sellingPrice": "12.5",
+            "service_gross_sellingPrice": "15",
+            "service_comment": "",
+            "service_color": ""
+        },
+        {
+            "service_id": "943285",
+            "service_name": "Service mit Schnelleingabe",
+            "service_eanCode": "",
+            "service_taxRate": "20.00",
+            "service_net_sellingPrice": "12.5",
+            "service_gross_sellingPrice": "15",
+            "service_comment": "",
+            "service_color": ""
+        }
+    ],
+    "count": "2",
+    "limit": 250,
+    "offset": 1
+}

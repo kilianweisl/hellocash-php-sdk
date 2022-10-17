@@ -1,0 +1,27 @@
+{
+    "users": [
+        {
+            "user_id": 1,
+            "user_number": 1,
+            "user_timestamp": "2022-10-12T10:49:29.000Z",
+            "user_salutation": "Frau",
+            "user_firstname": "Test",
+            "user_surname": "Kunde",
+            "user_company": null,
+            "user_email": null,
+            "user_phoneNumber": null,
+            "user_postalCode": null,
+            "user_city": null,
+            "user_street": null,
+            "user_houseNumber": null,
+            "user_country": null,
+            "user_birthday": null,
+            "user_uidNumber": null,
+            "user_notes": null,
+            "user_custom_fields": null
+        }
+    ],
+    "count": 1,
+    "limit": 250,
+    "offset": 1
+}

@@ -1,0 +1,63 @@
+{
+    "entries": [
+        {
+            "cashBook_id": "72905826",
+            "cashBook_timestamp": "2022-10-11 16:59:08",
+            "cashBook_number": "4",
+            "cashBook_type": "deposit",
+            "cashBook_total": "0.00",
+            "cashBook_employee_id": "123",
+            "cashBook_description": "",
+            "cashBook_system_entry": "1",
+            "cashBook_mode": "demo",
+            "cashBook_business_type": "geschäftlich",
+            "cashBook_invoice_number": "4",
+            "cashBook_cancellation": "0"
+        },
+        {
+            "cashBook_id": "72863746",
+            "cashBook_timestamp": "2022-10-10 20:46:38",
+            "cashBook_number": "3",
+            "cashBook_type": "deposit",
+            "cashBook_total": "564.30",
+            "cashBook_employee_id": "185716",
+            "cashBook_description": "",
+            "cashBook_system_entry": "1",
+            "cashBook_mode": "demo",
+            "cashBook_business_type": "geschäftlich",
+            "cashBook_invoice_number": "3",
+            "cashBook_cancellation": "0"
+        },
+        {
+            "cashBook_id": "72862696",
+            "cashBook_timestamp": "2022-10-10 19:58:01",
+            "cashBook_number": "2",
+            "cashBook_type": "deposit",
+            "cashBook_total": "30.00",
+            "cashBook_employee_id": "185716",
+            "cashBook_description": "",
+            "cashBook_system_entry": "1",
+            "cashBook_mode": "demo",
+            "cashBook_business_type": "geschäftlich",
+            "cashBook_invoice_number": "2",
+            "cashBook_cancellation": "0"
+        },
+        {
+            "cashBook_id": "72862600",
+            "cashBook_timestamp": "2022-10-10 19:53:36",
+            "cashBook_number": "1",
+            "cashBook_type": "deposit",
+            "cashBook_total": "15.00",
+            "cashBook_employee_id": "185716",
+            "cashBook_description": "",
+            "cashBook_system_entry": "1",
+            "cashBook_mode": "demo",
+            "cashBook_business_type": "geschäftlich",
+            "cashBook_invoice_number": "1",
+            "cashBook_cancellation": "0"
+        }
+    ],
+    "count": "4",
+    "limit": 1000,
+    "offset": 1
+}

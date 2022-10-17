@@ -1,0 +1,27 @@
+[
+  {
+      "paymentMethod_id": "648661",
+      "paymentMethod_name": "Bar",
+      "paymentMethod_text": ""
+  },
+  {
+      "paymentMethod_id": "648662",
+      "paymentMethod_name": "Bankomat",
+      "paymentMethod_text": ""
+  },
+  {
+      "paymentMethod_id": "648663",
+      "paymentMethod_name": "Kreditkarte",
+      "paymentMethod_text": ""
+  },
+  {
+      "paymentMethod_id": "648664",
+      "paymentMethod_name": "Kreditrechnung",
+      "paymentMethod_text": ""
+  },
+  {
+      "paymentMethod_id": "648665",
+      "paymentMethod_name": "Gutschein",
+      "paymentMethod_text": ""
+  }
+]

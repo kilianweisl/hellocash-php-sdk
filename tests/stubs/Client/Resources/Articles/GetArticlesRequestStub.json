@@ -1,0 +1,39 @@
+{
+    "articles": [
+        {
+            "article_id": "10923316",
+            "article_name": "Artikel",
+            "article_code": "",
+            "article_eanCode": "",
+            "article_taxRate": "20.00",
+            "article_unit": "",
+            "article_net_purchacePrice": "0",
+            "article_net_sellingPrice": "12.5",
+            "article_gross_sellingPrice": "15",
+            "article_stock": "0",
+            "article_minStock": "0",
+            "article_comment": "",
+            "article_billReference": "0",
+            "article_color": ""
+        },
+        {
+            "article_id": "10923317",
+            "article_name": "Artikel mit Schnelleingabe",
+            "article_code": "",
+            "article_eanCode": "",
+            "article_taxRate": "20.00",
+            "article_unit": "",
+            "article_net_purchacePrice": "0",
+            "article_net_sellingPrice": "12.5",
+            "article_gross_sellingPrice": "15",
+            "article_stock": "0",
+            "article_minStock": "0",
+            "article_comment": "",
+            "article_billReference": "0",
+            "article_color": ""
+        }
+    ],
+    "count": "2",
+    "limit": 250,
+    "offset": 1
+}
