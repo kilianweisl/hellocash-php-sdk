@@ -85,7 +85,9 @@ Creates an invoice.
 $client->invoices()->create([
   'cashier_id' => 123,
   'items' => [
-    'item_name' => 'test',
+      [
+        'item_name' => 'test',
+      ],
   ],
 ]);
 ```
