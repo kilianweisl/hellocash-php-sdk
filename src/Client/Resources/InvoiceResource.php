@@ -101,7 +101,7 @@ class InvoiceResource extends Resource implements InvoiceResourceInterface
     }
   }
 
-  public function create(array $body): array
+  public function create(array $body): mixed
   {
     try {
       $supported = [

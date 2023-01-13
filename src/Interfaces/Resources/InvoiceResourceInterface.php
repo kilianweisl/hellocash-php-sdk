@@ -51,7 +51,7 @@ interface InvoiceResourceInterface
    * @throws Weisl\HellocashPhpSdk\Client\Exceptions\SDKRequestFailedException
    * @return array in case of failure error-response (see Readme.md) otherwise 1:1 API response
    */
-  public function create(array $body): array;
+  public function create(array $body): mixed;
 
   /**
    * See https://hellocash.docs.apiary.io/#reference/0/invoices/get-a-specific-invoice-as-pdf
