@@ -125,6 +125,10 @@ class InvoiceResource extends Resource implements InvoiceResourceInterface
         return $this->errorResponse('Invoice could not be created. Error message from API: ' . $response['error']);
       }
 
+      if(!isset($response['invoice_id'])) {
+        return $this->errorResponse('Invoice could not be created. Error message from API: ' . $response);
+      }
+
       return $response;
     } catch(\Exception $e) {
       throw new SDKRequestFailedException($e->getMessage());
